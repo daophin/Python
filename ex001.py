@@ -1,0 +1,5 @@
+nome = input('Qual é o seu nome? ')
+print(f'Prazer em conhecer você {nome}')
+print('-----------------')
+print('Fim do Programa!')
+print('-----------------')
